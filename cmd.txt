@@ -1,0 +1,6 @@
+dir-查看当前目录的所有文件
+cd .-返回上一级目录
+mkdir xx -创建文件夹
+systeminfo -查看电脑操作系统位数
+winver -查看Windows版本
+taskmgr -任务管理器
